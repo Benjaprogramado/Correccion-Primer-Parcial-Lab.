@@ -1,0 +1,235 @@
+# depslib dependency file v1.0
+1538527269 source:d:\schell_benjamin_1f\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1538527220 d:\schell_benjamin_1f\alquileres\negocio.h
+
+1538508134 source:d:\schell_benjamin_1f\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1538527270 source:e:\schell_benjamin_1f\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1538527222 e:\schell_benjamin_1f\alquileres\negocio.h
+
+1538508134 source:e:\schell_benjamin_1f\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1538770953 source:g:\pc benja\programacion i\schell_benjamin_1f\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1538770916 g:\pc benja\programacion i\schell_benjamin_1f\alquileres\negocio.h
+
+1538508134 source:g:\pc benja\programacion i\schell_benjamin_1f\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+
+1538770898 source:g:\pc benja\programacion i\schell_benjamin_1f\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1538507902 g:\pc benja\programacion i\schell_benjamin_1f\alquileres\utn.h
+
+1538770954 source:c:\users\liszt\desktop\schell_benjamin_1f\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1538770918 c:\users\liszt\desktop\schell_benjamin_1f\alquileres\negocio.h
+
+1539028774 source:c:\users\liszt\desktop\schell_benjamin_1f\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1538507902 c:\users\liszt\desktop\schell_benjamin_1f\alquileres\utn.h
+
+1539027363 source:c:\users\liszt\desktop\schell_benjamin_1f\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1539046096 source:d:\aa_examen schell\schell_benjamin_1f\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1539047358 d:\aa_examen schell\schell_benjamin_1f\alquileres\negocio.h
+
+1539047325 source:d:\aa_examen schell\schell_benjamin_1f\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1538507902 d:\aa_examen schell\schell_benjamin_1f\alquileres\utn.h
+
+1539027364 source:d:\aa_examen schell\schell_benjamin_1f\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1539047426 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1540493546 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final\alquileres\negocio.h
+
+1539047326 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1538507902 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final\alquileres\utn.h
+
+1539027364 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1540926125 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1540930393 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion\alquileres\negocio.h
+
+1540930384 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1540927640 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1540929636 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion\alquileres\utn.h
+
+1540926126 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion111\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1540930394 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion111\alquileres\negocio.h
+
+1540927642 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion111\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1540929638 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion111\alquileres\utn.h
+
+1540930386 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion111\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1541272457 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion222\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1540930394 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion222\alquileres\negocio.h
+
+1540930386 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion222\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
+1541265279 source:c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion222\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1540929638 c:\users\benjamin\desktop\schell_benjamin_1f_entrega final continuacion222\alquileres\utn.h
+
+1542054431 source:c:\users\liszt\desktop\schell_benjamin_1f_entrega final continuacion333\alquileres\main.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+
+1542054431 c:\users\liszt\desktop\schell_benjamin_1f_entrega final continuacion333\alquileres\negocio.h
+
+1542054827 source:c:\users\liszt\desktop\schell_benjamin_1f_entrega final continuacion333\alquileres\negocio.c
+	<stdio.h>
+	<string.h>
+	<stdlib.h>
+	<conio.h>
+	"negocio.h"
+	"utn.h"
+
+1540929638 c:\users\liszt\desktop\schell_benjamin_1f_entrega final continuacion333\alquileres\utn.h
+
+1540930386 source:c:\users\liszt\desktop\schell_benjamin_1f_entrega final continuacion333\alquileres\utn.c
+	<stdio.h>
+	<stdlib.h>
+	<conio.h>
+	<time.h>
+	<string.h>
+
